@@ -78,48 +78,48 @@ rule-providers:
     url: https://raw.githubusercontent.com/mxvwrt/Clash-For-Android-Setting/master/rules_provider/rules_adblock_v1.yaml
     interval: 604800 #7 Hari Update
     behavior: domain
-    path: ./providers/rules_adblock_v1.yaml
+    path: ./rules_providers/rules_adblock_v1.yaml
   Rule_adblock:
     type: http
     url: https://raw.githubusercontent.com/mxvwrt/Clash-For-Android-Setting/master/rules_provider/rules_adblock.yaml
     interval: 604800 #7 Hari Update
     behavior: classical
-    path: ./providers/rules_adblock.yaml
+    path: ./rules_providers/rules_adblock.yaml
   Rule_adblock_plus:
     type: http
     url: https://raw.githubusercontent.com/mxvwrt/Clash-For-Android-Setting/master/rules_provider/rules_adblock_plus.yaml
     interval: 604800 #7 Hari Update
     behavior: classical
-    path: ./providers/rules_adblock_plus.yaml
+    path: ./rules_providers/rules_adblock_plus.yaml
   Rule_ML:
     type: http
     url: https://raw.githubusercontent.com/mxvwrt/Clash-For-Android-Setting/master/rules_provider/rule_ml.yaml
     interval: 604800 #7 Hari Update
     behavior: classical
-    path: ./providers/rule_ml.yaml
+    path: ./rules_providers/rule_ml.yaml
   Rule_Pubg:
     type: http
     url: https://raw.githubusercontent.com/mxvwrt/Clash-For-Android-Setting/master/rules_provider/rule_pubg.yaml
     interval: 604800 #7 Hari Update
     behavior: classical
-    path: ./providers/rule_pubg.yaml
+    path: ./rules_providers/rule_pubg.yaml
   Rule_FF:
     type: http
     url: https://raw.githubusercontent.com/mxvwrt/Clash-For-Android-Setting/master/rules_provider/rule_ff.yaml
     behavior: classical
-    path: ./providers/rule_ff.yaml
+    path: ./rules_providers/rule_ff.yaml
   Rule_Gameumum:
     type: http
     url: https://raw.githubusercontent.com/mxvwrt/Clash-For-Android-Setting/master/rules_provider/rule_gameumum.yaml
     interval: 604800 #7 Hari Update
     behavior: classical
-    path: ./providers/rule_gameumum.yaml
+    path: ./rules_providers/rule_gameumum.yaml
   Rule_Mbanking:
     type: http
     url: https://raw.githubusercontent.com/mxvwrt/Clash-For-Android-Setting/master/rules_provider/rules_mbanking.yaml
     interval: 604800 #7 Hari Update
     behavior: domain
-    path: ./providers/rules_mbanking.yaml
+    path: ./rules_providers/rules_mbanking.yaml
 rules:  
   - RULE-SET,Rule_adblock_v1,ADBLOCK
   - RULE-SET,Rule_adblock,ADBLOCK
