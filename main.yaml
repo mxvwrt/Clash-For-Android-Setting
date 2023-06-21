@@ -4,15 +4,15 @@ proxies:
       server: BUG,
       port: 80,
       type: vmess,
-      uuid: UUID,
-      sni: SERVERMU,
+      uuid: db026a40-1054-11ee-b877-1239d0255272,
+      sni: SERVERMU.com,
       alterId: 0,
       cipher: auto,
       tls: false,
       skip-cert-verify: true,
       udp: 0,
       network: ws,
-      ws-opts: { path: /path, headers: { Host: SERVERMU } },
+      ws-opts: { path: /path, headers: { Host: SERVERMU.com } },
     }
 
 port: 7890
