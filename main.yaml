@@ -121,6 +121,8 @@ rule-providers:
     behavior: domain
     path: ./providers/rules_mbanking.yaml
 rules:  
+  - RULE-SET,Rule_adblock_v1,ADBLOCK
+  - RULE-SET,Rule_adblock,ADBLOCK
   - RULE-SET,Rule_adblock,ADBLOCK
   - RULE-SET,Rule_ML,MBank
   - RULE-SET,Rule_Pubg,MBank
