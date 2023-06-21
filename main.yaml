@@ -106,6 +106,7 @@ rule-providers:
   Rule_FF:
     type: http
     url: https://raw.githubusercontent.com/mxvwrt/Clash-For-Android-Setting/master/rules_provider/rule_ff.yaml
+    interval: 604800 #7 Hari Update
     behavior: classical
     path: ./rules_providers/rule_ff.yaml
   Rule_Gameumum:
