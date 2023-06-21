@@ -123,7 +123,7 @@ rule-providers:
 rules:  
   - RULE-SET,Rule_adblock_v1,ADBLOCK
   - RULE-SET,Rule_adblock,ADBLOCK
-  - RULE-SET,Rule_adblock,ADBLOCK
+  - RULE-SET,Rule_adblock_plus,ADBLOCK
   - RULE-SET,Rule_ML,MBank
   - RULE-SET,Rule_Pubg,MBank
   - RULE-SET,Rule_FF,MBank
