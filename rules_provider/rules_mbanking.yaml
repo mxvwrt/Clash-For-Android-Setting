@@ -1,19 +1,19 @@
 payload:
-  - "+.gojek.com
-  - "+.gobiz.co.id
-  - "+.ovo.id
-  - "+.dana.id
-  - "+.linkaja.id
-  - "+.octoclicks.co.id
-  - "+.i-saku.com
-  - "+.doku.com
-  - "+.shopeepay.co.id
-  - "+.grab.com
-  - "+.grabtaxi.com
-  - "+.ovo.id
-  - "+.split.io
-  - "+.innov8.id
-  - "+.dokuwallet.com
+  - "+.gojek.com"
+  - "+.gobiz.co.id"
+  - "+.ovo.id"
+  - "+.dana.id"
+  - "+.linkaja.id"
+  - "+.octoclicks.co.id"
+  - "+.i-saku.com"
+  - "+.doku.com"
+  - "+.shopeepay.co.id"
+  - "+.grab.com"
+  - "+.grabtaxi.com"
+  - "+.ovo.id"
+  - "+.split.io"
+  - "+.innov8.id"
+  - "+.dokuwallet.com"
   - "+.bri.co.id"
   - "+.bni.co.id"
   - "+.klikbca.com"
